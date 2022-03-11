@@ -1,0 +1,1 @@
+[29-May-2021 21:58:02 Asia/Jakarta] PHP Fatal error:  Trait 'App\Http\Controllers\CrudTrait' not found in /home/perpussk/perpus-skadala/app/Http/Controllers/OrderController.php on line 13
